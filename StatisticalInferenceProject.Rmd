@@ -1,7 +1,7 @@
 ---
 	title: "Statistical Inference Project Part 1"
 	author: "M Zunnurain Hussain"
-	date: "May 27, 2017"
+	date: "Sep 21, 2019"
 	output: html_document
 	---
 	
